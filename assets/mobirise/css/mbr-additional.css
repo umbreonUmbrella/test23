@@ -1355,9 +1355,6 @@ a {
   }
 }
 .cid-tJS9vXDdRK .row {
-  flex-direction: row-reverse;
-}
-.cid-tJS9vXDdRK .row {
   align-items: center;
 }
 @media (max-width: 991px) {
@@ -2916,23 +2913,23 @@ a {
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
-.cid-u32jT0Bm8o {
+.cid-uhwDptEL0H {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-u32jT0Bm8o img,
-.cid-u32jT0Bm8o .item-img {
+.cid-uhwDptEL0H img,
+.cid-uhwDptEL0H .item-img {
   width: 100%;
 }
-.cid-u32jT0Bm8o .item:focus,
-.cid-u32jT0Bm8o span:focus {
+.cid-uhwDptEL0H .item:focus,
+.cid-uhwDptEL0H span:focus {
   outline: none;
 }
-.cid-u32jT0Bm8o .item-wrapper {
+.cid-uhwDptEL0H .item-wrapper {
   position: relative;
 }
-.cid-u32jT0Bm8o .slide-content {
+.cid-uhwDptEL0H .slide-content {
   position: relative;
   border-radius: 4px;
   background: #fafafa;
@@ -2942,38 +2939,38 @@ a {
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-u32jT0Bm8o .slide-content .item-content {
+  .cid-uhwDptEL0H .slide-content .item-content {
     padding: 2rem 2rem 0;
   }
-  .cid-u32jT0Bm8o .slide-content .item-footer {
+  .cid-uhwDptEL0H .slide-content .item-footer {
     padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-u32jT0Bm8o .slide-content .item-content {
+  .cid-uhwDptEL0H .slide-content .item-content {
     padding: 1rem 1rem 0;
   }
-  .cid-u32jT0Bm8o .slide-content .item-footer {
+  .cid-uhwDptEL0H .slide-content .item-footer {
     padding: 0 1rem 1rem;
   }
 }
-.cid-u32jT0Bm8o .mbr-section-btn {
+.cid-uhwDptEL0H .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-u32jT0Bm8o .mbr-section-title {
+.cid-uhwDptEL0H .mbr-section-title {
   color: #232323;
 }
-.cid-u32jT0Bm8o .mbr-text,
-.cid-u32jT0Bm8o .mbr-section-btn {
+.cid-uhwDptEL0H .mbr-text,
+.cid-uhwDptEL0H .mbr-section-btn {
   text-align: left;
 }
-.cid-u32jT0Bm8o .item-title {
+.cid-uhwDptEL0H .item-title {
   text-align: left;
 }
-.cid-u32jT0Bm8o .item-subtitle {
+.cid-uhwDptEL0H .item-subtitle {
   text-align: left;
 }
-.cid-u32jT0Bm8o .embla__slide {
+.cid-uhwDptEL0H .embla__slide {
   display: flex;
   justify-content: center;
   position: relative;
@@ -2981,18 +2978,18 @@ a {
   max-width: 410px;
 }
 @media (max-width: 768px) {
-  .cid-u32jT0Bm8o .embla__slide {
+  .cid-uhwDptEL0H .embla__slide {
     min-width: 70%;
     max-width: initial;
     margin-left: 1rem !important;
     margin-right: 1rem !important;
   }
 }
-.cid-u32jT0Bm8o .embla__button--next,
-.cid-u32jT0Bm8o .embla__button--prev {
+.cid-uhwDptEL0H .embla__button--next,
+.cid-uhwDptEL0H .embla__button--prev {
   display: flex;
 }
-.cid-u32jT0Bm8o .embla__button {
+.cid-uhwDptEL0H .embla__button {
   top: 50%;
   width: 60px;
   height: 60px;
@@ -3008,42 +3005,42 @@ a {
   justify-content: center;
   align-items: center;
 }
-.cid-u32jT0Bm8o .embla__button:disabled {
+.cid-uhwDptEL0H .embla__button:disabled {
   cursor: default;
   display: none;
 }
-.cid-u32jT0Bm8o .embla__button:hover {
+.cid-uhwDptEL0H .embla__button:hover {
   background: #000;
   color: rgba(255, 255, 255, 0.5);
 }
-.cid-u32jT0Bm8o .embla__button.embla__button--prev {
+.cid-uhwDptEL0H .embla__button.embla__button--prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-u32jT0Bm8o .embla__button.embla__button--next {
+.cid-uhwDptEL0H .embla__button.embla__button--next {
   right: 0;
   margin-right: 2.5rem;
 }
 @media (max-width: 767px) {
-  .cid-u32jT0Bm8o .embla__button {
+  .cid-uhwDptEL0H .embla__button {
     top: auto;
   }
 }
-.cid-u32jT0Bm8o .embla {
+.cid-uhwDptEL0H .embla {
   position: relative;
   width: 100%;
 }
-.cid-u32jT0Bm8o .embla__viewport {
+.cid-uhwDptEL0H .embla__viewport {
   overflow: hidden;
   width: 100%;
 }
-.cid-u32jT0Bm8o .embla__viewport.is-draggable {
+.cid-uhwDptEL0H .embla__viewport.is-draggable {
   cursor: grab;
 }
-.cid-u32jT0Bm8o .embla__viewport.is-dragging {
+.cid-uhwDptEL0H .embla__viewport.is-dragging {
   cursor: grabbing;
 }
-.cid-u32jT0Bm8o .embla__container {
+.cid-uhwDptEL0H .embla__container {
   display: flex;
   user-select: none;
   -webkit-touch-callout: none;
